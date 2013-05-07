@@ -1,8 +1,7 @@
 # Email Reply Parser
 
-[![Build Status](https://secure.travis-ci.org/lawrencepit/email_reply_parser.png?branch=master)](http://travis-ci.org/lawrencepit/email_reply_parser)
+[![Build Status](https://secure.travis-ci.org/rsanheim/email_reply_parser.png?branch=master)](http://travis-ci.org/lawrencepit/email_reply_parser)
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/lawrencepit/email_reply_parser)
-[![Gem Version](https://fury-badge.herokuapp.com/rb/email_reply_parser.png)](http://badge.fury.io/rb/email_reply_parser)
 
 EmailReplyParser is a small library to parse plain text email content.
 
